@@ -1,0 +1,5 @@
+# Ignora ambientes virtuais (com e sem ponto) em qualquer pasta
+venv/
+.venv/
+**/venv/
+**/.venv/
